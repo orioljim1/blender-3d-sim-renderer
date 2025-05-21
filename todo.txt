@@ -1,0 +1,11 @@
+In this file I will mention updates that are in mind and would greately improve the renderers.
+
+-improve the automatic material modification to allow for the creation of simple diffuse materials, this would work great for cases wher you want to modify your models to have a uniform color
+
+-ability to render out depthmaps
+
+-convert it and bundle it as an addon
+
+-add more materials types for the soft body simulation
+
+-ability to move the sim and render part to genesis project
